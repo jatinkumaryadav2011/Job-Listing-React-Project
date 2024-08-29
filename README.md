@@ -1,6 +1,13 @@
 # Job Listing Project 
 
-<img src="public/screen.png" />
+## Home Page
+![Home Page](public/screen.png)
+
+## Jobs Page
+![Jobs Page](public/jobpage.png)
+
+## Add Jobs Page
+![Add Jobs Page](public/addjobpage.png)
 
 ## Usage
 
